@@ -1,2 +1,2 @@
-# Practic-AtomicDesign-React
+# Practice-AtomicDesign-React
 Created with CodeSandbox
